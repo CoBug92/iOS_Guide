@@ -8,18 +8,21 @@
 
 
 func a() {
+
     print("First function")
+
 }
 
 
 func a (b: String) {
+
     print(b)
+
 }
 
 Таким образом у нас 2 функции с одним именем, но разница в принимаемых значениях и теперь мы можем вызывать обе функции.
 
 a()				//First function
-
 
 a(b: "Second function")		//Second function
 
