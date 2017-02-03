@@ -9,14 +9,8 @@ General:
 - [Что такое `SOLID` принципы?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/SOLID.md)
 - [Расскажите о паттерне `MVC`. Чем отличается `пассивная` модель от `активной`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/Pattern/MVC_active_vs_passive.md)
 - [Какие еще `паттерны` знаете?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/Pattern/Lilbit_patterns.md)
-- Паттерны порождающие создания объектов (Creational): Singleton, Abstract Factory?
-- Паттерны структурные (Structural): MVC, Decorator(Categories, Delegation), Adapter(Delegation), Facade, Composite?
-- Паттерны поведения и взаимодействия объектов (Behavioral): Observer (Notification, KVO), Memento (Archiving + UserDefaults), Chain of Responsibility, Command (Target-Action mechanism)?
 - Что такое `responder chain`?
 - [Как работают `push нотификации`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/How_to_work_with_push_notification.md)
-
-Additional Questions:
-- [Реализация `синглтона (Singleton)` в `ARC` и в `non-ARC`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/Pattern/Singleton_arc_non_arc.md)
 
 UIKit:
 ------
@@ -128,6 +122,8 @@ Logical:
 
 Objective-C, Foundation:
 ------------------------
+
+- [Реализация `синглтона (Singleton)` в `ARC` и в `non-ARC`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/Pattern/Singleton_arc_non_arc.md)
 - [Что такое UINavigationController?](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/objective_c/uinavigationcontroller.md)
 
 - [Опишите `основные понятия ОО программирования` в терминах Objective-C (`интерфейс, реализация, свойства, протоколы,` иa т.д)](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/objective_c/base_oop_term_per_objc.md)
