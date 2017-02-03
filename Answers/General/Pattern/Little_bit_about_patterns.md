@@ -1,13 +1,13 @@
 ## Какие еще `паттерны` знаете?
 
-[**Вернутся к списку вопросов**](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/readme.md)
+[**Вернутся к списку вопросов**](https://github.com/CoBug92/Interview_iOS/blob/master/README.md)
 
 * Паттерны порождающие, создания объектов (Creational):
-  * Singleton (Одиночка)
+  * [Singleton (Одиночка)](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/Pattern/Singleton.md)
   * Abstarct Factory (Абстрактная фабрика)
   * Abstract method (Абстрактный метод)
 * Паттерны структурные (Structural):
-  * MVC (Модель-Представление-Контроллер)
+  * [MVC](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/Pattern/
   * Decorator (Декоратор)
   * Adapter/Bridge (Адаптер/Мост)
   * Facade (Фасад)
