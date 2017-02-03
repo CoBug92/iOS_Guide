@@ -3,19 +3,20 @@
 =======
 General:
 --------
-- [Что такое `полиморфизм`?](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/general/oop/polymorphism.md)
-- [Что такое `инкапсуляция`? Что такое нарушение инкапсуляции?](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/general/oop/encapsulation.md)
-- [Чем `абстрактный класс` отличается от `интерфейса`?](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/general/oop/abstractclass_vs_interface.md)
-- [Что такое `SOLID` принципы?](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/general/solid.md)
-- [Расскажите о паттерне `MVC`. Чем отличается `пассивная` модель от `активной`?](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/general/pattern/
-- [Какие еще `паттерны` знаете?](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/general/pattern/lilbit_patterns.md)
+- [Что такое `полиморфизм`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/OOP/Polymorphism.md)
+- [Что такое `инкапсуляция`? Что такое нарушение инкапсуляции?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/OOP/Encapsulation.md)
+- [Чем `абстрактный класс` отличается от `интерфейса`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/OOP/Abstract_class_vs_interface.md)
+- [Что такое `SOLID` принципы?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/SOLID.md)
+- [Расскажите о паттерне `MVC`. Чем отличается `пассивная` модель от `активной`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/Pattern/MVC_active_vs_passive.md)
+- [Какие еще `паттерны` знаете?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/Pattern/Lilbit_patterns.md)
 - Паттерны порождающие создания объектов (Creational): Singleton, Abstract Factory?
 - Паттерны структурные (Structural): MVC, Decorator(Categories, Delegation), Adapter(Delegation), Facade, Composite?
 - Паттерны поведения и взаимодействия объектов (Behavioral): Observer (Notification, KVO), Memento (Archiving + UserDefaults), Chain of Responsibility, Command (Target-Action mechanism)?
 - Что такое `responder chain`?
-- [Как работают `push нотификации`?](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/general/how_work_push_notif.md)
+- [Как работают `push нотификации`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/How_to_work_with_push_notification.md)
+
 Additional Questions:
-- [Реализация `синглтона (Singleton)` в `ARC` и в `non-ARC`?](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/general/pattern/singleton_arc_non_arc.md)
+- [Реализация `синглтона (Singleton)` в `ARC` и в `non-ARC`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/Pattern/Singleton_arc_non_arc.md)
 
 UIKit:
 ------
