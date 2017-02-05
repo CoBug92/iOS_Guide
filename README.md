@@ -9,8 +9,8 @@ General:
 - [Что такое `SOLID` принципы?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/SOLID.md)
 - [Расскажите о паттерне `MVC`. Чем отличается `пассивная` модель от `активной`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/Pattern/MVC_active_vs_passive.md)
 - [Какие еще `паттерны` знаете?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/Pattern/Little_bit_about_patterns.md)
-- [Что такое `responder chain`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/How_to_work_with_push_notification.md)
-- [Как работают `push нотификации`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/Responder_chain.md)
+- [Что такое `responder chain`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/Responder_chain.md)
+- [Как работают `push нотификации`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/How_to_work_with_push_notification.md)
 
 UIKit:
 ------
