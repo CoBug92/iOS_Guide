@@ -3,8 +3,8 @@
 =======
 General:
 --------
--[x] [Что такое `полиморфизм`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/OOP/Polymorphism.md)
--[] [Что такое `инкапсуляция`? Что такое нарушение инкапсуляции?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/OOP/Encapsulation.md)
+- [Что такое `полиморфизм`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/OOP/Polymorphism.md)
+- [Что такое `инкапсуляция`? Что такое нарушение инкапсуляции?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/OOP/Encapsulation.md)
 - [Чем `абстрактный класс` отличается от `интерфейса`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/OOP/Abstract_class_vs_interface.md)
 - [Что такое `SOLID` принципы?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/SOLID.md)
 - [Расскажите о паттерне `MVC`. Чем отличается `пассивная` модель от `активной`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/Pattern/MVC_active_vs_passive.md)
