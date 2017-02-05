@@ -24,9 +24,16 @@
 
 **UIControl: Target-action**
 Для обработки стандартных действий пользователя с UI (нажатие кнопки, изменение значения слайдера и тд) в UIKit / AppKit используется механизм target-action.* UI-компоненты, которые могут посылать сообщения, наследуются от UIControl — класс-наследник UIView, конкретизирующий обработку действий пользователя и выполнения связанных с ними действий.* Так же позволяют задать внешний вид компонента при определенном состоянии (выбран, нажат)
+
+```swift
+//допустим, мы создаем кнопку в методе viewDidLoad UIButton* button = [UIButton new];
+[button addTarget:self action:@selector(buttonPressed:) forControlEvents:UIControlEventTouchDown];
+....
+- (void) buttonPressed:(id) sender {
+}
+
 ‘’’
-//допустим, мы создаем кнопку в методе viewDidLoad UIButton* button = [UIButton new];[button addTarget:self action:@selector(buttonPressed:) forControlEvents:UIControlEventTouchDown];....- (void) buttonPressed:(id) sender {}
-‘’’
+
 ### Статьи по теме
 
 * [Лекция от Sibers](http://www.sibers.ru/wp-content/uploads/sibers-iOS-Lectures-5.pdf)
