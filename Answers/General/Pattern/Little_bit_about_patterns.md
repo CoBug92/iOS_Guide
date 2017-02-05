@@ -7,7 +7,7 @@
   * Abstarct Factory (Абстрактная фабрика)
   * Abstract method (Абстрактный метод)
 * Паттерны структурные (Structural):
-  * [MVC](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/Pattern/
+  * [MVC](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/Pattern/Singleton.md)
   * Decorator (Декоратор)
   * Adapter/Bridge (Адаптер/Мост)
   * Facade (Фасад)

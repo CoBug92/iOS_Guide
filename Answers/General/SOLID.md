@@ -1,7 +1,7 @@
 
 ## Что такое `SOLID` принципы?
 
-[**Вернутся к списку вопросов**](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/readme.md)
+[**Вернутся к списку вопросов**](https://github.com/CoBug92/Interview_iOS/blob/master/README.md)
 
 **S - Single responsibility principle - Принцип единственной обязанности:**
 

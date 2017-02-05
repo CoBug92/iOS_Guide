@@ -1,6 +1,6 @@
 ## Как работают `push нотификации`?
 
-[**Вернутся к списку вопросов**](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/readme.md)
+[**Вернутся к списку вопросов**](https://github.com/CoBug92/Interview_iOS/blob/master/README.md)
 
 1. Apple Push Notification Service (APNS) запрашивает у устройства token, своеобразный ключ, который можно считать "адресом".
 2. Есть сервер (наш или иной сервис):
