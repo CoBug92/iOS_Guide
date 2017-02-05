@@ -1,4 +1,4 @@
-# Вопросы и ответы на собеседование iOS разработчика:
+# Вопросы и ответы для собеседования на позицию iOS разработчика:
 
 =======
 General:
@@ -9,15 +9,12 @@ General:
 - [Что такое `SOLID` принципы?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/SOLID.md)
 - [Расскажите о паттерне `MVC`. Чем отличается `пассивная` модель от `активной`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/Pattern/MVC_active_vs_passive.md)
 - [Какие еще `паттерны` знаете?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/Pattern/Little_bit_about_patterns.md)
-- [Что такое `responder chain`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/Responder_chain.md)
-- [Как работают `push нотификации`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/General/How_to_work_with_push_notification.md)
 
 UIKit:
 ------
-- [Цикл жизни ios-приложения](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/ios_general/app_lifecycle.md)
+- [Цикл жизни ios-приложения. Какие бывают `состояния` у приложения?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/UIKit/App_lifecycle.md)
 - Разница между свойствами `bounds и frame` объекта UIView? Понимание системы координат?
-- Какие бывают `состояния` у приложения?
-- Цикл жизни `UIViewController`?
+- [Цикл жизни `UIViewController`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/UIKit/UIViewController_lifecycle)
 - Что такое `View` (представление) и что такое `window`?
 - Какого разрешение экранов iphon'ов, и в чем разница между `points (точками)` и `пикселями (pixels)`?
 - [Что такое `responder chain` (цепочка обязанностей, `паттерн chain of responsibility`, на примере UI компонентов iOS ), `becomeFirstResponder`.](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/uikit/responder_chain.md)
@@ -28,6 +25,8 @@ UIKit:
 - Почему мы должны `релизить IBOutlet'ты` во viewDidUnload?
 - Что такое `awakeFromNeeb`, в чем разница между `xib и nib` файлами?
 - Иерархия наследования UIButton.
+- [Что такое `responder chain`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/UIKit/Responder_chain.md)
+- [Как работают `push нотификации`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/UIKit/How_to_work_with_push_notification.md)
 
 
 Networking:
