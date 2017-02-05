@@ -14,7 +14,7 @@ UIKit:
 ------
 - [Цикл жизни ios-приложения. Какие бывают `состояния` у приложения?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/UIKit/App_lifecycle.md)
 - Разница между свойствами `bounds и frame` объекта UIView? Понимание системы координат?
-- [Цикл жизни `UIViewController`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/UIKit/UIViewController_lifecycle)
+- [Цикл жизни `UIViewController`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/UIKit/UIViewController_lifecycle.md)
 - Что такое `View` (представление) и что такое `window`?
 - Какого разрешение экранов iphon'ов, и в чем разница между `points (точками)` и `пикселями (pixels)`?
 - [Что такое `responder chain` (цепочка обязанностей, `паттерн chain of responsibility`, на примере UI компонентов iOS ), `becomeFirstResponder`.](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/uikit/responder_chain.md)
