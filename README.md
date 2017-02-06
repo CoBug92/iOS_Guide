@@ -13,12 +13,11 @@ General:
 UIKit:
 ------
 - [Цикл жизни ios-приложения. Какие бывают `состояния` у приложения?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/UIKit/App_lifecycle.md)
-- Разница между свойствами `bounds и frame` объекта UIView? Понимание системы координат?
+- [Разница между свойствами `bounds и frame` объекта UIView? Понимание системы координат?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/UIKit/Frame_vs_Bounds)
 - [Цикл жизни `UIViewController`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/UIKit/UIViewController_lifecycle.md)
 - Что такое `View` (представление) и что такое `window`?
-- Какого разрешение экранов iphon'ов, и в чем разница между `points (точками)` и `пикселями (pixels)`?
-- [Что такое `responder chain` (цепочка обязанностей, `паттерн chain of responsibility`, на примере UI компонентов iOS ), `becomeFirstResponder`.](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/uikit/responder_chain.md)
-- Что означают `IBOutlet` и `IBAction`, для чего они нужны, и что значат для препроцессора?
+- [Какого разрешение экранов iphon'ов, и в чем разница между `points (точками)` и `пикселями (pixels)`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/UIKit/Size_of_iPhone_and_different_between_points_and_pixels)
+- [Что означают `IBOutlet` и `IBAction`, для чего они нужны, и что значат для препроцессора?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/UIKit/IBOutlet_vs_IBAction)
 - Как работает `UITableView`?
 - Как многопоточность работает с `UIKit`?
 - Что можно сделать если клавиатура при появлении скрывает важную часть интерфейса?
