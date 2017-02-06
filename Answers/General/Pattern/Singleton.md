@@ -1,4 +1,4 @@
-## Реализация синглтона в ARC и в non-ARC?
+## Паттерн Singleton?
 
 [**Вернутся к списку вопросов**](https://github.com/CoBug92/Interview_iOS/blob/master/README.md)
 

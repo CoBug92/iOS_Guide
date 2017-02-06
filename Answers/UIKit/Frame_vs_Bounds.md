@@ -3,6 +3,7 @@
 [**Вернутся к списку вопросов**](https://github.com/CoBug92/Interview_iOS/blob/master/README.md)
 
 Frame – это прямоугольник описываемый положением location(x, y) и размерами size (width, height) view относительно ее superview в которой она содержится. 
+
 Bounds – это прямоугольник описываемый положением location(x, y) и размерами size (width, height) view относительно ее собственной системы координат (0, 0).
 
 
