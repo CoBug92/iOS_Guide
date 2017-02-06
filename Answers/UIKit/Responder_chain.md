@@ -1,4 +1,4 @@
-## Как работают `push нотификации`?
+## Что такое responder chain?
 
 [**Вернутся к списку вопросов**](https://github.com/CoBug92/Interview_iOS/blob/master/README.md)
 
