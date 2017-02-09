@@ -28,28 +28,31 @@ UIKit:
 - [Как работают `push нотификации`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/UIKit/How_to_work_with_push_notification.md)
 
 
-Networking:
-----------
-- Преимущества и недостатки `синхронного и асинхронного` соединения?
-- [Что означает `http, tcp`?](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/networking/http_tcp.md)
-- [Какие различия между `HEAD, GET, POST, PUT`?](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/networking/difference_between_head_get_post_put.md)
-- Как загрузить что-то из интернета? В чем разница между `синхронными и асинхронными запросами`? Небольшое задание. Опишите как загрузить изображение из интернета и отобразить его в ImageView — все это должно происходить после нажатия кнопки.
-- [Архитектура REST](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/networking/rest.md)
-
 Multithreading:
 ---------------
-- [Что такое `deadlock`?](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/multithreading/deadlock.md)
-- [Что такое `livelock`?](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/multithreading/livelock.md)
+- [Что такое `состояние гонки`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/Multithreading/Race_condition.md)
+- [Что такое `deadlock`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/Multithreading/Deadlock.md)
+- [Что такое `livelock`?](https://github.com/CoBug92/Interview_iOS/blob/master/Answers/Multithreading/Livelock.md)
 - [Что такое `семафор (semafor)`?](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/multithreading/semaphore.md)
 - [Что такое `мьютекс (mutex)`?](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/multithreading/mutex.md)
 - `Асинхронность` vs `многопоточность`. Чем отличаются?
-- [Что такое `состояние гонки`?](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/multithreading/race_condition.md)
 - [Какие технологии в iOS возможно использовать для работы с потоками. Преимущества и недостатки.](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/multithreading/another_thread_technology.md)
 - Как запустить поток? Что первым нужно сделать при запуске потока? (NSAutoreleasePool - пул автоосвобождения) Что такое runLoop, кодга он используется? (timers, nsurlconnection …)
 - [Чем отличается `dispatch_async от dispatch_sync`?](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/multithreading/dispatch_sync_vs_async.md)
 - Для чего при разработке под iOS использовать `POSIX-потоки`? `pthread_create(&thread, NULL, startTimer, (void *)t);`
 - А чем реально `POSIX-потоки` лучше чем `GCD или NSOperationQueue вместе с NSOperation`? Приходилось ри реально использовать POSIX и как в этом были прюсы? Реально, просто интересно…
  `Use POSIX calls if cross-platform portability is required. If you are writing networking code that runs exclusively in OS X and iOS, you should generally avoid POSIX networking calls, because they are harder to work with than higher-level APIs. However, if you are writing networking code that must be shared with other platforms, you can use the POSIX networking APIs so that you can use the same code everywhere. `
+
+
+Networking:
+----------
+- Преимущества и недостатки `синхронного и асинхронного` соединения?
+- [Что означает `http, tcp`?](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/networking/http_tcp.md)
+- [Какие различия между `HEAD, GET, POST, PUT`?](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/networking/difference_between_head_get_post_put.md)
+- Как загрузить что-то из интернета? В чем разница между `синхронными и асинхронными запросами`? 
+- [Небольшое задание. Опишите как загрузить изображение из интернета и отобразить его в ImageView — все это должно происходить после нажатия кнопки.]()
+- [Архитектура REST](https://github.com/Torlopov-Andrey/hh_interview_ios/blob/master/answers/networking/rest.md)
+
 
 Базы данных, CoreData:
 ----------------------
